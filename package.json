@@ -12,7 +12,7 @@
     "url": "https://github.com/iShawnWang/node-ts-starter"
   },
   "author": "iShawnWang",
-  "license": "GPLV3",
+  "license": "GPLV31111111111",
   "dependencies": {
     "@types/node": "^12.12.14",
     "nodemon": "^2.0.1",
