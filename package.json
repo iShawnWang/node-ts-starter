@@ -5,7 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "start": "nodemon ./src/index.ts",
-    "debug:start": "nodemon --inspect-brk src/index.ts"
+    "debug:start": "nodemon --inspect src/index.ts"
   },
   "repository": {
     "type": "git",
