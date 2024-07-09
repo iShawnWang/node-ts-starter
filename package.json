@@ -4,8 +4,7 @@
   "description": "Nodejs TypeScript Starter",
   "main": "src/index.ts",
   "scripts": {
-    "start": "nodemon ./src/index.ts",
-    "debug:start": "nodemon --inspect src/index.ts"
+    "start": "tsx ./src/index.ts"
   },
   "repository": {
     "type": "git",
@@ -14,11 +13,9 @@
   "author": "iShawnWang",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^17.0.25",
-    "nodemon": "^2.0.15",
-    "prettier": "^2.6.2",
-    "ts-node": "^10.7.0",
-    "tslib": "^2.4.0",
-    "typescript": "^4.6.3"
+    "@types/node": "^20.14.10",
+    "prettier": "^3.3.2",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
   }
 }
